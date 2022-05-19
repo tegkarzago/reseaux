@@ -1,0 +1,5 @@
+nom = "teg"
+age = "22"
+
+print("vous vous appelez " + nom)
+print("vous avez " + age )

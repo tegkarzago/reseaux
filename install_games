@@ -1,0 +1,7 @@
+python3 -m pip install freegames
+
+python3 -m freegames list
+
+python3 -m freegames copy snake
+
+snake.py
